@@ -1,0 +1,17 @@
+name: Snowbattel
+main: de.wroracer.snowbattel.PluginMain
+version: ${project.version}
+
+commands:
+  sb-setup:
+    description: Befehl zum Erstellen einer Arena
+  sb-join:
+    description: Befeehl zum Joinen von Runden
+  l:
+    description: Verlasse einer Runde
+  leave:
+    description: Verlasse einer Runde
+  sb-stats:
+    description: Lass dir deine Stats anzeigen
+  sb-start:
+    description: Starte eine Runde
