@@ -6,7 +6,7 @@
 
     <groupId>de.wroracer</groupId>
     <artifactId>Snowbattle</artifactId>
-    <version>0.0.0</version>
+    <version>0.0.0-dev0</version>
 
     <inceptionYear>2023</inceptionYear>
     <name>SnowBattle</name>
