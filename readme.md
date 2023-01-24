@@ -1,0 +1,5 @@
+# SnowBattle
+
+Todo:
+
+- write readme
